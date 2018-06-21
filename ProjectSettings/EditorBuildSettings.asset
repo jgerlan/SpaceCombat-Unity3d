@@ -4,4 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Tela - Menu.unity
+    guid: 7183fb8c673c99b4ea199e22a539310a
+  - enabled: 1
+    path: Assets/Fase01 - Terra_Desolada.unity
+    guid: 33e7fac6b2d6d5d46b4278a9fe788cd4
+  - enabled: 1
+    path: "Assets/Fase02 - Espa\xE7o_Profundo.unity"
+    guid: fd622b573f2f1234cbbd21e2364acd99
+  - enabled: 1
+    path: Assets/Fase03 - Final_Chefe.unity
+    guid: f15d0eb48b187624d9a2d6c2bc165dd7
